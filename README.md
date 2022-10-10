@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/XwBzLXzYq7ljHBXkHk/giphy.gif" width="100"/>
 </div>
 <div id="title" align="center">
-  Hello, I'm Damaris 👋
+  Hello, I'm Damaris <span class="wave">👋</span>
  </div>
 
 
