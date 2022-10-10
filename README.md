@@ -2,7 +2,8 @@
   <img src="https://media.giphy.com/media/XwBzLXzYq7ljHBXkHk/giphy.gif" width="150"/>
 </div>
 <div id="title" align="center">
-  Hello, I'm Damaris <img src="https://camo.githubusercontent.com/6051ead6aac43731f7c34dacdbe10fef0c0a7813cc723356e4c4e4a8dfa1a3a5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f526561646d652d576f726b666c6f77732f526561646d652d49636f6e73406d61696e2f69636f6e732f676966732f776176652e676966" 
+  <font size="+4">Hi, I'm Damaris </font>
+  <img src="https://camo.githubusercontent.com/6051ead6aac43731f7c34dacdbe10fef0c0a7813cc723356e4c4e4a8dfa1a3a5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f526561646d652d576f726b666c6f77732f526561646d652d49636f6e73406d61696e2f69636f6e732f676966732f776176652e676966" 
  </div>
   <div id="
 
