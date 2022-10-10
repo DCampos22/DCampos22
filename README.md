@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/XwBzLXzYq7ljHBXkHk/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/XwBzLXzYq7ljHBXkHk/giphy.gif" width="150"/>
 </div>
 
 <div id="title" align="center">
@@ -10,8 +10,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  </div>
- 
 
+<div id="Current">
+<h2>:woman_technologist: Currently working on..</h2>
+<p>🔭 Building augmented reality effects using JavaScript</p>
+<p>🌱 Building a website with React that provides resources for incoming Computer Science majors</p>
+
+</div>
 
 <!--
 **DCampos22/DCampos22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
