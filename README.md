@@ -16,7 +16,7 @@
 <div id="Current">
 <h2>:woman_technologist: Currently working on..</h2>
 <p>🔭 Building augmented reality effects using JavaScript</p>
-<p>🌱 Building a website using React that provides resources for incoming Computer Science majors</p>
+<p>🌱 Building a website that provides resources for incoming Computer Science majors</p>
 
 </div>
 
