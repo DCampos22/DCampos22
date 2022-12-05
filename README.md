@@ -8,7 +8,7 @@
  </h1></div>
  
  <div id="bagdes" align="center">
- <a href="https://www.linkedin.com/in/damaris-campos">
+ <a href="https://www.linkedin.com/in/damaris-campos" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  </div>
@@ -18,7 +18,7 @@
 <!--<p>🔭 Building augmented reality effects using JavaScript</p>-->
 <p>🌱 Check out the website me and my team created to help Computer Science students with resources of different kinds! <a href="https://big-r.netlify.app/">Big R</a>
   </p>
-<p>💡 Currently working on my personal website. <.p>
+<p>💡 Currently working on my personal website. </p>
 
 </div>
 
