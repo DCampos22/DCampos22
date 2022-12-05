@@ -16,7 +16,9 @@
 <div id="Current">
 <h2>:woman_technologist: Currently working on..</h2>
 <!--<p>🔭 Building augmented reality effects using JavaScript</p>-->
-<p>🌱 Building a website that provides resources for incoming Computer Science majors</p>
+<p>🌱 Check out the website me and my team created to help Computer Science students with resources of different kinds! <a href="https://big-r.netlify.app/">Big R</a>
+  </p>
+<p>💡 Currently working on my personal website. <.p>
 
 </div>
 
