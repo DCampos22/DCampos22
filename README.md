@@ -8,7 +8,7 @@
  </h1></div>
  
  <div id="bagdes" align="center">
- <a href="https://www.linkedin.com/in/damaris-campos" target="_blank" rel="noopener noreferrer">
+ <a target="blank" rel="noopener" href="https://www.linkedin.com/in/damaris-campos">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  </div>
