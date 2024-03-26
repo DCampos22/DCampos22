@@ -13,14 +13,6 @@
   </a>
  </div>
 
-<div id="Current">
-<h2>:woman_technologist: Currently working on..</h2>
-<!--<p>🔭 Building augmented reality effects using JavaScript</p>-->
-<p>🌱 Check out the website me and my team created to help Computer Science students with resources of different kinds! <a href="https://big-r.netlify.app/">Big R</a>
-  </p>
-<p>💡 Currently working on my personal website. </p>
-
-</div>
 
 <!--
 **DCampos22/DCampos22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
